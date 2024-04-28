@@ -1,4 +1,4 @@
-# comprehensive-REST-API-with-Python-s-Flask-web-framework
+# comprehensive REST API with Python Flask web framework
 
 In this Repository I created a comprehensive REST API with Python’s Flask web framework.
 
