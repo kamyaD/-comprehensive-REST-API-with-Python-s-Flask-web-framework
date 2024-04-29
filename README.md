@@ -1,4 +1,4 @@
-# comprehensive REST API with Python Flask web framework
+# Python REST APIs With Flask, Connexion, and SQLAlchemy
 
 In this Repository I created a comprehensive REST API with Python’s Flask web framework.
 
