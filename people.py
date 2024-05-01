@@ -9,7 +9,6 @@ def read_all():
 
 def create(person):
     lname = person.get("lname")
-    print("lname===>", lname)
     existing_person = Person.query.filter(Person.lname == lname).one_or_none()
 
     if existing_person is None:
